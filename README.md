@@ -1,4 +1,4 @@
-# Last Trading Day
+# The Last Trading Day
 
 The `last_trading_day` program checks if a given date is the third Wednesday of the month. It accepts input from the command line and can also parse options for year, month, and day.
 
